@@ -1,0 +1,63 @@
+#trans{background-color: rgba(248,248,248,0.3);
+		color: white}
+#signup{color: black}
+.jumbotron hr{width: 20%;}
+.jumbotron {background: url('landscape.jpg');
+			background-size: cover;
+			height:600px;}
+#jumbotext { margin-top: 10%}
+
+#hr{width: 70%;}
+
+#product {padding: 20px;
+	}
+
+#feature {margin: 30px auto;
+		padding: 30px;
+		background-color: #EEF2F5;}
+
+
+h1{font-size: 30px;
+	font-style: bold;
+	text-align: center;}
+table, th, td{
+	margin: 0px auto;
+	border-collapse: collapse;
+
+}
+table{width: 90%;}
+th,td{width: 33%}
+
+th{text-align: center;
+	padding: 15px;}
+
+td{text-align: left;}
+
+
+
+.Free {background-color: #82DACA;}
+.Standard{background-color: #53CFE9;}
+.Premium{background-color: #EB6279;}
+
+.btmborder{border-bottom: white solid 2px;}
+
+#dog{color: #327096;}
+#long{margin:5% 0%;}
+h3{text-align: center;}
+
+#form{margin: 4%;}
+#last{background-color: black;
+	color: white;
+	padding: 10%;}
+p{color: #ADADAD;
+	font-size: 20px;
+	font-weight: bold;}
+li{color: grey;
+	font-size: 15px;}
+
+li:hover{color: moccasin;}
+
+#map {
+        height: 400px;
+        width: 100%;
+       }
